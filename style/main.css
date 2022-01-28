@@ -14,12 +14,8 @@
 
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
-}
-
-header .container{
-    
 }
 
 
@@ -108,4 +104,14 @@ header .container{
 
 .filme-principal .container{
     width: 70%;
+}
+
+.box-filme{
+    height: 25px;
+    width: 25px;
+    display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 50px;
 }
