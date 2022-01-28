@@ -101,3 +101,11 @@ header .container{
 .botao i{
     margin-right: 8px;
 }
+
+.container{
+    margin-left: 35px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
